@@ -23,7 +23,7 @@
         </div>
       </Sidebar>
       <Burger></Burger>
-      <router-view class="p-30"></router-view>
+      <router-view class="p-30 w-100"></router-view>
     </div>
   </div>
 </template>
